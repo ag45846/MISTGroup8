@@ -57,6 +57,7 @@ Our data model is based on the services of a health-care clinic. First off, our 
 
 ## Queries:
 <img width="620" alt="Screenshot 2024-03-27 at 10 12 05 AM" src="https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002386/0372da59-7fee-4506-8d7b-7686a94f5ab5">
+#
 
 1. Query 1 lists the ID's and names of Medical Staff who have treated more than 2 patients.
 ![image](https://github.com/rebekahbradbury/Group-8-MIST-4610-/assets/163002826/77d536df-5ef5-4bec-870d-3e55a090341b)
